@@ -1,6 +1,6 @@
 to jest przyk³ad pliku na zajêcia z gita. 
 
-mnmkhn cos cos
+teraz dodaje nowe zmiany w master.
 
 
 trzecia linijkededdssss
