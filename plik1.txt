@@ -3,7 +3,7 @@ to jest przyk³ad pliku na zajêcia z gita.
 teraz dodaje nowe zmiany w master.
 
 
-trzecia linijkededdssss
+trzecia linijka.
 
 
 
